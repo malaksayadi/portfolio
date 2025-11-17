@@ -1,0 +1,7 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "resend": "npm:resend@4.0.0",
+    "std/": "https://deno.land/std@0.190.0/"
+  }
+}
